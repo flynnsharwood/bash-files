@@ -1,4 +1,4 @@
 # bash-files
 
-Image-Magick
-ffmpeg
+- Image-Magick
+- ffmpeg
